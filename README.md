@@ -3,7 +3,7 @@
 
 > An automated time table generator using genetic algorithms in Java with JavaFX application using MVC architecture pattern.
 
-![alt logo]![image](https://github.com/HK0369/Timetable-Generator-master/assets/154605397/1452507e-77e2-4cc0-acea-7558a6d45d93)
+[image](https://github.com/HK0369/Timetable-Generator-master/assets/154605397/1452507e-77e2-4cc0-acea-7558a6d45d93)
 
 ## Introduction
 The timetabling problems are essentially the problems that deal with effective distribution of resources. 
